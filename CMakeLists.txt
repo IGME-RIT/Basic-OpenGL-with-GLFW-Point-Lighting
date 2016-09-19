@@ -5,7 +5,7 @@ else()
 cmake_minimum_required (VERSION 3.0)
 endif()
 
-project(opengl-3d-point-pights)
+project(opengl-3d-point-lights)
 
 set_property(GLOBAL PROPERTY USE_FOLDERS ON)
 
